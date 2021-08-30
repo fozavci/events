@@ -1,6 +1,12 @@
-# events
+# Events
  Talk & Training Content from Security Conferences
 
+## Hack In The Box Singapore 2021
+* Malware Traffic Simulations in Distributed Networks (Slides + Whitepaper)
+* Tradecraft Development: Growing Implants in Memory (Slides + Whitepaper)
+
+## DEF CON 29 - Adversary Village 2021
+* Tradecraft Development in Adversary Simulations
 
 ## AusCERT 2021
 * Malware Traffic Generation to Improve Security Incident Detections
