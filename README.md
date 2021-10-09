@@ -1,6 +1,12 @@
 # Events
  Talk & Training Content from Security Conferences
 
+## Bsides Perth September 2021
+* Adversarial Tradecraft Development in a Nutshell
+
+## JCSC Sydney September 2021
+* A Journey from TI to Adversary Simulations
+
 ## Hack In The Box Singapore 2021
 * Malware Traffic Simulations in Distributed Networks (Slides + Whitepaper)
 * Tradecraft Development: Growing Implants in Memory (Slides + Whitepaper)
